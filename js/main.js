@@ -17,5 +17,3 @@ while(x < lista.length){
     listaDom.innerHTML += `<li>${lista[x]}</li>`;
     x++;
 }
-
-console.log(x);
