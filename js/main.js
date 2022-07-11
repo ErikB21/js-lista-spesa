@@ -1,4 +1,6 @@
-//es per casa
+//Creo un array
+//scorro l'array
+//stampo il risultato
 
 const lista = [
     "Sale q.b",
